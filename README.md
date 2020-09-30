@@ -1,7 +1,7 @@
 # hello-world
-my first repository!!
+My first repository!!
 
-hello githuber's,
+Hello githuber's,
 
-keshav here,how are you guys doing?
+Keshav here,how are you guys doing?
 i am beginner with git and github.this is my first project to learn using github.
